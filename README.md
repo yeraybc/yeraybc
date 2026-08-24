@@ -1,65 +1,39 @@
-# 👋 Hi, I'm Yeray Benito
-### Data Science Student @ UCM | Bridging Econometric Rigor with Generative AI
+<div align="center">
 
-> "I turn complex and incomplete datasets into actionable business decisions through statistical precision and modern computational power combined with rigor."
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=Hello!;I'm+Yeray.)](https://git.io/typing-svg)
 
----
+</div>
 
-## 🚀 About Me
-I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, specialized in transforming raw data into strategic assets. My approach combines the **mathematical discipline of traditional statistics** with the **agility of Large Language Models** to maximize workplace productivity. I excel at translating intricate technical findings into clear, high-impact narratives for non-technical stakeholders.
+Welcome to my GitHub! I'm Yeray, a Data Science student at UCM, incoming intern at Velle Capital and collaborating as a Quantitative Research Analyst at UCM Finance Society.
 
----
+I got into Data Science because I enjoy the analytical effort that allows you to see the big picture and spot what others can't, and because I'm enthusiastic about prediction, knowing what's coming at future so I can act on it today. Since then I've developed projects on credit risk scoring, spatial asset valuation, and macro/market research.
 
-## 📊 GitHub Stats & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeraybc&show_icons=true&theme=radical&hide_border=true" alt="Yeray's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeraybc&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeraybc&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
-</p>
+Excited to share my projects here as I build toward a career based on roles related with data & finance at a top financial institution.
 
----
+**What I'm working on:**
 
-#### 🛠 Skills Matrix (Tech Stack)
+- 📊 Building **Credit Scoring E2E**: A full credit risk pipeline on the Home Credit Default Risk dataset, documented publicly on [LinkedIn](https://www.linkedin.com/in/yeraybenit0) as it develops, demonstrating good communication skills.
+- 🏠 Shipped **[MadridDataHouse](https://github.com/yeraybc/MadridDataHouse)**: A spatial ML model (XGBoost, R² = 0.62) for Madrid housing prices, deployed live on Shiny, capturing complex geospatial patterns.
+- 🎓 Studying toward the **FRM Part I** (Nov 2026), alongside an independent research project mapping UCM's presence in top consulting and banking roles.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Science Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2ECC71?style=flat-square&logo=stackshare&logoColor=white) |
-| **Econometrics & Stats** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-00487F?style=flat-square&logo=sas&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-CC2027?style=flat-square&logo=ibm&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?style=flat-square&logo=mathworks&logoColor=white) |
-| **Data Management & Visualization** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) |
-| **Development & AI Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![LLM_Optimization](https://img.shields.io/badge/LLM_Optimization-Prompt_Engineering-blueviolet?style=flat-square&logo=openai&logoColor=white) |
+### 📫 Reach out to me!
 
----
+> 📫 **Email me for collaborations or anything:** yera0304 [at] gmail [dot] com *(anti-spam format)*
+>
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeraybenit0)
 
-## 📈 Current Focus & Portfolio Roadmap
+### 🛠️ Skills
 
-> [!IMPORTANT]
-> **What I am working on right now:**
-> * 🛠 **In Development: Credit Risk Modeling (IFRS 9)**. Engineering a Credit Scoring system to classify clients into Stage 1, 2, and 3. My focus is on the precision of predicting *Significant Increase in Credit Risk (SICR)*, optimizing bank capital provisioning and life-time loss coverage.
-> * ✅ **Finalizing: Mortgage Risk Analysis (New York 2024)**. Implementing **Supervised Learning techniques** (Classification & Regression) on large-scale real estate datasets (HMDA) to predict default probability and identify high-risk triggers in modern urban markets.
-> * 🎓 **Continuous Training:** >   - 8-month intensive program in **AI & Advanced Analytics @ UPM**.
->   - Daily specialization through AI & ML courses from **top-tier global universities**.
-> * 🚀 **Future Horizons:** Seeking complex corporate challenges to build end-to-end data solutions that drive business ROI.
+![Skills](https://skillicons.dev/icons?i=python,r,md,mysql,anaconda,vscode,colab,pytorch,sklearn,git&theme=light)
 
----
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-1A73E8?style=flat-square&logoColor=white)
 
-## 🌟 Featured Project: Bitcoin Econometric Analysis
+### 📈 GitHub Stats
 
-### [📈 BTC-NASDAQ-FED: Cointegration & Systematic Risk Audit](https://github.com/yeraybc/analisis-btc-nasdaq-fed)
+<div align="center">
 
-**Is Bitcoin 'Digital Gold' or simply a leveraged reflection of global liquidity?** I audited the data to cut through the safe-haven narrative, revealing the invisible threads that bind BTC to FED decisions and the NASDAQ tech index.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeraybc&layout=compact&theme=transparent&hide_border=true&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=yeraybc&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
 
-* ⚠️ **Risk Management:** Identified a **0.94 structural correlation** with the NASDAQ, effectively **invalidating inefficient diversification strategies** within portfolios exposed to the US tech sector.
-* 🏛️ **Macro Sensitivity:** Quantified a **-$4.8k impact on BTC price for every 1% hike in the FED Rate**, providing a **precise hedging metric** against monetary policy shocks.
-* ⚡ **Dynamic Efficiency:** Determined a **5.4-month mean-reversion speed**, identifying critical windows for **arbitraging the asset’s fundamental imbalances**.
-
-**Tech Stack:** `Python` | `Statsmodels` | `ECM` | `Cointegration` | `IV-2SLS`
-
-👉 **[Explore Code & Methodology](https://github.com/yeraybc/analisis-btc-nasdaq-fed)** | 📙 **[Technical Glossary](https://github.com/yeraybc/analisis-btc-nasdaq-fed/blob/main/glosario.md)**
-
----
-
-## 🤝 What if ... we connect?
-*Ready to tackle any challenge that requieres perseverance. Currently seeking for an internship at finance sector, otherwise I'm open for collaborate at any project who need's a data-plumber.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeraybenit0) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yera0304@gmail.com)
+</div>
