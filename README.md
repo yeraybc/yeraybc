@@ -30,7 +30,6 @@ Excited to share my projects here as I build toward a career based on roles rela
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeraybc&layout=compact&theme=transparent&hide_border=true&hide_title=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=yeraybc&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
-
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=yeraybc&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+ 
 </div>
