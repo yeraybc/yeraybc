@@ -26,9 +26,6 @@ Excited to share my projects here as I build toward a career based on roles rela
 
 ![Skills](https://skillicons.dev/icons?i=python,r,md,mysql,anaconda,vscode,colab,pytorch,sklearn,git&theme=light)
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-1A73E8?style=flat-square&logoColor=white)
-
 ### 📈 GitHub Stats
 
 <div align="center">
