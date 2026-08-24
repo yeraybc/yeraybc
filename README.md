@@ -16,17 +16,17 @@ Excited to share my projects here as I build toward a career based on roles rela
 - 🏠 Shipped **[MadridDataHouse](https://github.com/yeraybc/MadridDataHouse)**: A spatial ML model (XGBoost, R² = 0.62) for Madrid housing prices, deployed live on Shiny, capturing complex geospatial patterns.
 - 🎓 Studying toward the **FRM Part I** (Nov 2026), alongside an independent research project mapping UCM's presence in top consulting and banking roles.
 
-### 📫 Reach out to me!
+### Reach out to me!
 
 > 📫 **Email me for collaborations or anything:** yera0304 [at] gmail [dot] com *(anti-spam format)*
 >
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeraybenit0)
 
-### 🛠️ Skills
+### Skills
 
 ![Skills](https://skillicons.dev/icons?i=python,r,md,mysql,anaconda,vscode,colab,pytorch,sklearn,git&theme=light)
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
