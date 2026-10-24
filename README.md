@@ -4,23 +4,23 @@
 
 </div>
 
-Welcome to my GitHub! I'm Yeray, a Data Science student at UCM, incoming intern at Velle Capital and collaborating as a Quantitative Research Analyst at UCM Finance Society.
+Welcome to my GitHub! I'm Yeray, a final-year Applied Data Science student at UCM and a Data Science Intern at Velle Capital, where I build PySpark pipelines on Databricks and AI agents that automate data work for real estate investment.
 
-I got into Data Science because I enjoy the analytical effort that allows you to see the big picture and spot what others can't, and because I'm enthusiastic about prediction, knowing what's coming at future so I can act on it today. Since then I've developed projects on credit risk scoring, spatial asset valuation, and macro/market research.
+I got into Data Science because I enjoy the analytical effort that lets you see the big picture and spot what others miss, and because I'm drawn to prediction: knowing what's coming so I can act on it today. Since then I've built projects on credit risk scoring, spatial asset valuation, energy commodity volatility and macro/market research.
 
-Excited to share my projects here as I build toward a career based on roles related with data & finance at a top financial institution.
+Excited to share my projects here as I build toward a career in Data Science and AI, especially where data drives financial and investment decisions.
 
 **What I'm working on:**
 
-- 📊 Building **Credit Scoring E2E**: A full credit risk pipeline on the Home Credit Default Risk dataset, documented publicly on [LinkedIn](https://www.linkedin.com/in/yeraybenit0) as it develops, demonstrating good communication skills.
-- 🏠 Shipped **[MadridDataHouse](https://github.com/yeraybc/MadridDataHouse)**: A spatial ML model (XGBoost, R² = 0.62) for Madrid housing prices, deployed live on Shiny, capturing complex geospatial patterns.
-- 🎓 Studying toward the **FRM Part I** (Nov 2026), alongside an independent research project mapping UCM's presence in top consulting and banking roles.
+- 💼 Interning at **Velle Capital** (Data Science): I built a Python agent with the Claude Agent SDK that standardises client datatapes arriving in different formats, and a text-based geocoding pipeline over the Spanish cadastre, built with PySpark and Delta Lake on Databricks and now running in production to find comparables for property valuation. I got here thanks to **[MadridDataHouse](https://github.com/yeraybc/MadridDataHouse)**, my spatial ML model for Madrid housing prices.
+- 📊 Building **[Credit Scoring E2E](https://github.com/yeraybc/home-credit-default-risk)**: An end-to-end credit risk pipeline on the Home Credit Default Risk dataset (30M+ rows across 4 tables, 163 engineered features, 1,500+ tests, CI with GitHub Actions). Feature engineering is done; I'm now modelling, with cross-validation, class-imbalance strategies compared per model and a holdout kept untouched until the final evaluation.
+- 📄 Writing a **[research paper](https://www.linkedin.com/feed/update/urn:li:activity:7506652202367848448/)** on forecasting energy commodity volatility (Brent and Henry Hub natural gas) with GARCH, HAR and neural networks (BiLSTM, attention), tested out of sample and with VaR backtesting. I'll share it with professors for feedback before submitting it to a journal, while I prepare the **FRM Part I** (Nov 2026).
 
 ### Reach out to me!
 
 > 📫 **Email me for collaborations or anything:** yera0304 [at] gmail [dot] com *(anti-spam format)*
 >
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeraybenit0)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeraybenit0) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yeraybenito.vercel.app/)
 
 ### Skills
 
