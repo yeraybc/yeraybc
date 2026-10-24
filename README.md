@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Yeray, a final-year Applied Data Science student at UC
 
 I got into Data Science because I enjoy the analytical effort that lets you see the big picture and spot what others miss, and because I'm drawn to prediction: knowing what's coming so I can act on it today. Since then I've built projects on credit risk scoring, spatial asset valuation, energy commodity volatility and macro/market research.
 
-Excited to share my projects here as I build toward a career in Data Science and AI, especially where data drives financial and investment decisions.
+Excited to share my projects here as I build toward a career in Data Science and AI.
 
 **What I'm working on:**
 
